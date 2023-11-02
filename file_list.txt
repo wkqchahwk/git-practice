@@ -1,0 +1,9 @@
+./
+../
+README.md
+file_list.txt
+new_directory/
+new_words.txt
+photo.png
+test.sh/
+ｈｅｌｌｏ—ｗｏｒｌｄ.txt
